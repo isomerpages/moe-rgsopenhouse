@@ -7,7 +7,7 @@ permalink: /
 notification: Visit us at our Braddell Campus! 2 Braddell Rise, Singapore 318871
 sections:
   - hero:
-      background: /images/flag bearer.jpg
+      background: /images/house captains.jpg
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
