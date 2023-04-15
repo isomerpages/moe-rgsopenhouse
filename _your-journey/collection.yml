@@ -1,0 +1,4 @@
+collections:
+  your-journey:
+    output: true
+    order: []
