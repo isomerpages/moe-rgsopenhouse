@@ -1,16 +1,16 @@
 logo: /images/rgs-logo_horizontal-2022-update.jpg
 links:
-  - title: Be the change
-    collection: be-the-change
-  - title: Better Self
-    collection: better-self
   - title: Learn Differently
     collection: learn-differently
+  - title: Better Self
+    collection: better-self
   - title: Talents and interests
     collection: be-the-change
-  - title: Webinar
-    collection: webinar
+  - title: Be the Change
+    collection: be-the-change
   - title: Your Journey
     collection: your-journey
-  - title: Contact Us
-    url: /contact-us/
+  - title: Webinar
+    collection: webinar
+  - title: Main Site
+    url: https://www.rgs.edu.sg/
