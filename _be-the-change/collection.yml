@@ -2,5 +2,6 @@ collections:
   be-the-change:
     output: true
     order:
+      - Leadership through Service to Community.md
       - Student Leadership in RGS.md
       - Leadership through Service to School.md
