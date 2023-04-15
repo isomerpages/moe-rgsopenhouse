@@ -4,7 +4,7 @@ title: RGS Open House
 description: Curious to know what the RGS experience is?
 image: /images/for-circle-logo.jpg
 permalink: /
-notification: Visit us at our Braddel Campus! 2 Braddell Rise
+notification: Visit us at our Braddell Campus! 2 Braddell Rise, Singapore 318871
 sections:
   - hero:
       background: /images/flag bearer.jpg
