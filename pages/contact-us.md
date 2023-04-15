@@ -2,31 +2,37 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Raffles Girls' School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - 2 Braddell Rise
+      - Singapore 318871
+      - ""
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
+        description: ""
+      - days: Wed
+        time: 8.30am - 5.30pm
+        description: ""
+    maps_link: ""
+    title: Raffles Girls' School
+  - address:
+      - 109 North Bridge Road
+      - Singapore 179097
+      - ""
+    operating_hours: []
     maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+    title: Branch Office
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6123 4567
+      - email: enquiries@abc.gov.sg
+      - other: Any text here <i>including HTML</i>
+    title: General Enquiries & Feedback
+  - content:
+      - phone: ""
+      - email: careers@abc.gov.sg
+      - other: ""
+    title: Careers
 ---
