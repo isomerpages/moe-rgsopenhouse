@@ -15,24 +15,23 @@ locations:
       - days: Wed
         time: 8.30am - 5.30pm
         description: ""
+      - days: Thu
+        time: 8.30am - 6.00pm
+        description: ""
+      - days: Fri
+        time: 8.30am - 5.00pm
+        description: Closed on Saturday, Sunday and Public Holidays
     maps_link: ""
     title: Raffles Girls' School
-  - address:
-      - 109 North Bridge Road
-      - Singapore 179097
-      - ""
-    operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch Office
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
+      - phone: +65 6737 1845
+      - email: rgss@moe.edu.sg
+      - other: ""
     title: General Enquiries & Feedback
   - content:
       - phone: ""
-      - email: careers@abc.gov.sg
+      - email: rgs_hr@schools.gov.sg
       - other: ""
     title: Careers
 ---
