@@ -7,7 +7,7 @@ permalink: /
 notification: Visit us at our Braddel Campus! 2 Braddell Rise
 sections:
   - hero:
-      background: /images/ohbannerweb1.jpg
+      background: /images/rgs oh home banner.jpg
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
@@ -18,16 +18,35 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Learn Differently
+      button: Because You Must
+      alt: Image alt text
+      image: /images/flag bearer.jpg
+      url: www.rgs.edu.sg
+  - infopic:
+      title: "Be your Better Self "
+      button: Because You are Safe
+      url: www.rgs.edu.sg
+      alt: Image alt text
+  - infopic:
+      title: Grow Your Talents & Interests
+      button: "Because Opportunities are Aplenty "
+      url: www.rgs.edu.sg
+      alt: Image alt text
+  - infopic:
+      title: Be The Change
+      button: Because You Care
+      url: www.rgs.edu.sg
+      alt: Image alt text
+  - infopic:
+      title: "Chart Your Journey "
+      button: Academic & Student Development Programmes
+      url: www.rgs.edu.sg
+      alt: Image alt text
+  - infopic:
+      title: Join Us
+      button: A day in the life of an rgs girl
+      url: www.rgs.edu.sg
       alt: Image alt text
 ---
