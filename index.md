@@ -4,14 +4,10 @@ title: RGS Open House
 description: Curious to know what the RGS experience is?
 image: /images/for-circle-logo.jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Visit us at our Braddel Campus! 2 Braddell Rise
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      background: /images/ohbannerweb1.jpg
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
@@ -28,4 +24,10 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
