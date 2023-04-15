@@ -29,24 +29,29 @@ sections:
       button: Because You are Safe
       url: www.rgs.edu.sg
       alt: Image alt text
+      image: /images/psb group.jpg
   - infopic:
       title: Grow Your Talents & Interests
       button: "Because Opportunities are Aplenty "
       url: www.rgs.edu.sg
       alt: Image alt text
+      image: /images/group performing.jpg
   - infopic:
       title: Be The Change
       button: Because You Care
       url: www.rgs.edu.sg
       alt: Image alt text
+      image: /images/be the change.jpg
   - infopic:
       title: "Chart Your Journey "
       button: Academic & Student Development Programmes
       url: www.rgs.edu.sg
       alt: Image alt text
+      image: /images/pb group.jpg
   - infopic:
       title: Join Us
       button: A day in the life of an rgs girl
       url: www.rgs.edu.sg
       alt: Image alt text
+      image: /images/house love.jpg
 ---
