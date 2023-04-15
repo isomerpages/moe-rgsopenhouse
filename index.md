@@ -9,15 +9,15 @@ sections:
   - hero:
       background: /images/house captains.jpg
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Principal's Welcome
+          description: The RGS Experience
+          url: https://www.youtube.com/watch?v=9vQXUqD6gPk
+        - title: Commemorative Homebook
+          description: Our different 'Homes'
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Information Booklet
+          description: The Raffles Programme
+          url: ""
   - infopic:
       title: Learn Differently
       button: Because You Must
