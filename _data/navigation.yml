@@ -1,15 +1,16 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
+  - title: Be the change
+    collection: be-the-change
+  - title: Better Self
+    collection: better-self
+  - title: Learn Differently
+    collection: learn-differently
+  - title: Talents and interests
+    collection: be-the-change
+  - title: Webinar
+    collection: webinar
+  - title: Your Journey
+    collection: your-journey
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
