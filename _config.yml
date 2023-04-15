@@ -3,7 +3,7 @@ url: https://openhouse.rgs.edu.sg
 favicon: /images/for-circle-logo.jpg
 colors:
   primary-color: "#006747"
-  secondary-color: "#000000"
+  secondary-color: "#006747"
   media-colors:
     - title: media-color-one
       color: "#49759a"
