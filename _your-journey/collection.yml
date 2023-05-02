@@ -2,12 +2,12 @@ collections:
   your-journey:
     output: true
     order:
-      - Co Curricular Activities.md
-      - Character & Leadership Education.md
-      - English Language & Literature.md
-      - Languages.md
-      - Science.md
-      - Physical Education.md
-      - Mathematics.md
-      - Humanities.md
       - Aesthetics.md
+      - Humanities.md
+      - Mathematics.md
+      - Physical Education.md
+      - Science.md
+      - Languages.md
+      - English Language & Literature.md
+      - Character & Leadership Education.md
+      - Co Curricular Activities.md
