@@ -2,4 +2,5 @@ collections:
   learn-differently:
     output: true
     order:
+      - RGS 1:1.md
       - Raffles Programme.md
