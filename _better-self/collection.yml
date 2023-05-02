@@ -1,4 +1,5 @@
 collections:
   better-self:
     output: true
-    order: []
+    order:
+      - Culture of Care.md
