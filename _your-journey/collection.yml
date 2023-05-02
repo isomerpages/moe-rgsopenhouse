@@ -2,4 +2,5 @@ collections:
   your-journey:
     output: true
     order:
+      - Humanities.md
       - Aesthetics.md
