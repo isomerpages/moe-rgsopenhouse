@@ -2,6 +2,7 @@ collections:
   your-journey:
     output: true
     order:
+      - Co Curricular Activities.md
       - Character & Leadership Education.md
       - English Language & Literature.md
       - Languages.md
