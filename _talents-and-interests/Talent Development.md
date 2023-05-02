@@ -17,4 +17,3 @@ Raffles Academy (RA) is for Year 3 and Year 4 students who are ready to be stret
 In preparation for RS, students learn research and inquiry skills which have been infused in the Year 1 and Year 2 academic curricula. The table below illustrates where these skills have been infused.
 
 The next table lists the programmes that fall under the umbrella of Research Studies and Raffles Academy.
-
