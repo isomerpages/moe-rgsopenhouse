@@ -2,5 +2,6 @@ collections:
   your-journey:
     output: true
     order:
+      - Mathematics.md
       - Humanities.md
       - Aesthetics.md
