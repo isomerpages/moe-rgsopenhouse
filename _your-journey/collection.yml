@@ -2,6 +2,7 @@ collections:
   your-journey:
     output: true
     order:
+      - English Language & Literature.md
       - Languages.md
       - Science.md
       - Physical Education.md
