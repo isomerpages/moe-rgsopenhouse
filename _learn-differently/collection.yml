@@ -1,4 +1,5 @@
 collections:
   learn-differently:
     output: true
-    order: []
+    order:
+      - Raffles Programme.md
