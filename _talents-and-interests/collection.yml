@@ -1,4 +1,5 @@
 collections:
   talents-and-interests:
     output: true
-    order: []
+    order:
+      - Talent Development.md
