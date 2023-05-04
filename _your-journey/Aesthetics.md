@@ -39,3 +39,14 @@ By completing the Aesthetics curriculum, you will be able to:
 
 
 # Students' Works
+
+
+**Music and Design**
+
+* [Electronic Dance Music Video](https://youtu.be/o9UQdsOhCrU)
+
+**Music Elective Programme**
+* **[Public Performances](https://youtu.be/WhrfGtC8ruE)**
+
+**Art and Design**
+* **[Year 1 Stop-Motion Video](https://youtu.be/-pVFl1Pj5l8)**
