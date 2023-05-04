@@ -31,10 +31,11 @@ By completing the Aesthetics curriculum, you will be able to:
 | -------- | -------- | - |
 | The Music and Design curriculum is designed to develop the student’s aesthetic sensitivity and critical thinking skills through the experience of a variety of music traditions and genres. It serves as a platform for students to experience musical expressions through active listening, collaborative performance and creative composition.     | The Visual Art and Design curriculum is designed to develop the student’s aesthetic sensitivity and critical thinking skills through the exploration of various art media and traditions. It serves as a platform for the student to experience various visual expressions through art creation and criticism.     |      |
 
-| **Design and Technology**| **Food and Design** |  |
+
+
+| **Design and Technology** | **Food and Design** |  |
 | -------- | -------- | - |
-| The Design and Technology curriculum is designed to fire the imagination of the student as she goes through the creative design process to conceptualise and create an artefact that is aesthetically pleasing and functional, in response to an authentic design situation. This is done through interacting with the physical world, manipulating materials and applying technology creatively and innovatively.     | The Food and Design curriculum is designed to equip the student with the food preparation skills to lead a healthy lifestyle. This is done through the study of nutrition, the science and craft of cooking methods, visual presentation of a dish and designing a personalised meal for a specific consumer in mind.     |      |
+| The Design and Technology curriculum is designed to fire the imagination of the student as she goes through the creative design process to conceptualise and create an artefact that is aesthetically pleasing and functional, in response to an authentic design situation. This is done through interacting with the physical world, manipulating materials and applying technology creatively and innovatively.   | The Food and Design curriculum is designed to equip the student with the food preparation skills to lead a healthy lifestyle. This is done through the study of nutrition, the science and craft of cooking methods, visual presentation of a dish and designing a personalised meal for a specific consumer in mind.     |      |
+
+
 # Students' Works
-
-
-
