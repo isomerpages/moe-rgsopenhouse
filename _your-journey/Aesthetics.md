@@ -50,3 +50,16 @@ By completing the Aesthetics curriculum, you will be able to:
 
 **Art and Design**
 * **[Year 1 Stop-Motion Video](https://youtu.be/-pVFl1Pj5l8)**
+
+**Special Art Programme**
+* **[Year 3 Design Video](https://youtu.be/Jqilxn2eZac)**
+**Design and Technology**
+**
+
+* [Video 1](https://youtu.be/n1Ww89PAf3Y)
+
+* [Video 2](https://youtu.be/UIyTtmTIhgg)
+
+**
+**Food and Design**
+* **[Video](https://youtu.be/zmM5ZytvHmw)**
