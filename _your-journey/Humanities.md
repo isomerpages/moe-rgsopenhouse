@@ -51,6 +51,5 @@ An annual overseas trip to Asia or Southeast Asia destinations for multi-discipl
 ```
 https://youtu.be/jCOqvqGULHE
 ```
-
 #### Geography Kukup Field Trip
 ![Kukup in JB](/images/jb_kukup.jpg)
