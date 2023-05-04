@@ -48,4 +48,8 @@ https://youtu.be/JUyNJoDhYrc
 
 An annual overseas trip to Asia or Southeast Asia destinations for multi-disciplinary learning that cuts across Humanities subjects (History, Geography and Inquiry &amp; Advocacy).
 
+```
+https://youtu.be/jCOqvqGULHE
+```
+
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/jCOqvqGULHE" height="315" width="560"></iframe>
