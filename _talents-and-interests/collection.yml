@@ -2,4 +2,5 @@ collections:
   talents-and-interests:
     output: true
     order:
+      - Research Studies & Raffles Academy.md
       - Talent Development.md
