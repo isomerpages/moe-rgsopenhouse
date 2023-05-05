@@ -26,3 +26,7 @@ To thrive is to develop well, flourish and succeed. Through our Thrive Sessions,
 
 
 While the services and programmes above address several dimensions of wellness, Educational and Career Guidance (ECG) focuses mainly on the intellectual and vocational aspects, ECG helps students explore their values, attitudes and aptitudes in relation to careers they may aspire towards. To facilitate the latter, students undergo work experience programmes, participate in career days and industry visits, and more.
+
+# Peer Helpers Programme
+
+* [Peer Helpers Programme video](https://www.youtube.com/watch?v=5nxm_BJKRYs)
