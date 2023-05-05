@@ -9,7 +9,7 @@ The Hong Leong Foundation Filiae Centre, is a one-stop student development centr
 Video: https://www.youtube.com/watch?v=jq_WZk8Fi7Q
 
 # Counselling
-# 
+
 Students go to their school counsellors when they want to speak with a trusted adult about issues that they are troubled by, and it is no different at RGS. Issues like stress, anxiety, relationships with peers and family, to name a few, are discussed in individual and group counselling with a professionally-trained counsellor. 
 
 
@@ -23,4 +23,4 @@ To thrive is to develop well, flourish and succeed. Through our Thrive Sessions,
 
 # Educational and Career Guidance
 
-While the services and programmes above address several dimensions of wellness, Educational and Career Guidance (ECG) focuses mainly on the intellectual and vocational aspects, ECG helps students explore their values, attitudes and aptitudes in relation to careers they may aspire towards. To facilitate the latter, students undergo work experience programmes, participate in career days and industry visits, and more. 
+While the services and programmes above address several dimensions of wellness, Educational and Career Guidance (ECG) focuses mainly on the intellectual and vocational aspects, ECG helps students explore their values, attitudes and aptitudes in relation to careers they may aspire towards. To facilitate the latter, students undergo work experience programmes, participate in career days and industry visits, and more.
