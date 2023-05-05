@@ -2,4 +2,5 @@ collections:
   better-self:
     output: true
     order:
+      - Filiae Centre.md
       - Culture of Care.md
