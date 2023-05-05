@@ -27,4 +27,3 @@ As participants collaborate and share ideas together to support the community, r
 ![](/images/triplec3.jpg)
 
 The powerful ingredient in this collaboration is undoubtedly, community-centeredness. Over time, we hope to see the Triple C Programme grow to involve more schools and SSAs.
-
