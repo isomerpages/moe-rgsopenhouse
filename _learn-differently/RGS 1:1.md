@@ -3,8 +3,9 @@ title: RGS 1:1
 permalink: /learn-differently/rgs1to1/
 description: ""
 ---
-![](/images/rgs%201-1%20(1).png)
 # Goals and Outcomes
+![](/images/rgs%201-1%20(1).png)
+
 Be active, critical and responsible citizens of the digital age
 Provide purposeful access to digital tools to enhance learning
 Provide for self-directed learning, discovering and nurturing talents in the process
@@ -17,3 +18,5 @@ In a 1:1 classroom environment, instruction would be student-centred, collaborat
 ![](/images/digital%20literacy%20framework%20(1).png)
 
 ![](/images/digital%20literacy_2%20(1).png)
+
+![](/images/digital%20literacy_1%20(1).png)
