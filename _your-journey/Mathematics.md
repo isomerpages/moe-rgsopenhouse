@@ -23,6 +23,10 @@ By the end of the course, you will be able to:
 
 A week to highlight the interplay of Mathematics with Science and Humanities in the real world. Activities include the Introduction to Coding.
 
+![](/images/hushstem1.JPG)
+
+![](/images/hushstem2.JPG)
+
 ```
 https://youtu.be/21j5mH6NhfM
 ```
