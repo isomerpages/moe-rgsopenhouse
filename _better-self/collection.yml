@@ -2,6 +2,7 @@ collections:
   better-self:
     output: true
     order:
+      - Events.md
       - Financial Assistance.md
       - Filiae Centre.md
       - Culture of Care.md
