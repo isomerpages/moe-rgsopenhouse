@@ -2,5 +2,6 @@ collections:
   better-self:
     output: true
     order:
+      - Financial Assistance.md
       - Filiae Centre.md
       - Culture of Care.md
