@@ -12,7 +12,6 @@ Video: https://www.youtube.com/watch?v=jq_WZk8Fi7Q
 
 Students go to their school counsellors when they want to speak with a trusted adult about issues that they are troubled by, and it is no different at RGS. Issues like stress, anxiety, relationships with peers and family, to name a few, are discussed in individual and group counselling with a professionally-trained counsellor. 
 
-![](/images/wellbeing%20(1).jpeg)
 # Coaching
 
 Teenagers confide in their peers about matters that are bothering them or when they want to know how to become better at certain things. Besides speaking with counsellors, students at RGS also have the option of talking to a peer-helper who is trained in solution-focussed coaching skills and techniques, and who receives supervision from a coaching supervisor. 
