@@ -2,7 +2,7 @@ collections:
   be-the-change:
     output: true
     order:
-      - Triple C Programme.md
       - Student Leadership in RGS.md
       - Leadership through Service to School.md
       - Leadership through Service to Community.md
+      - Triple C Programme.md
