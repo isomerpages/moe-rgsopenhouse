@@ -37,7 +37,7 @@ Through Inquiry and Advocacy lessons, you will:
 
 # Events and Activities
 
-#### HUSH-STEM Week 2020
+#### HUSH-STEM Week
 
 Humanities Showcase (HUSH) and Science, Technology, Engineering and Mathematics (STEM) Week, a celebration of the collaboration of the Humanities and STEM fields in the school campus. This week-long programme seeks to inspire students to believe in the idea of “STEM for Humanity”.
 ```
