@@ -18,12 +18,12 @@ The programme hopes to:
 		
 Launched in 2019, the Triple C Programme is a tripartite collaboration between RGS, primary schools and Social Service Agencies within the Braddell-Toa Payoh vicinity.
 
-![](/images/triplec2.JPG)
+![](/images/triplec2.jpg)
 
 The Triple C Programme creates a common space for interactions regardless of socio-economic background, age or ability. At its heart, this programme is about connectedness. 
 
 As participants collaborate and share ideas together to support the community, relationships are formed.
 
-![](/images/triplec3.jpg)
+![](/images/triplec3.JPG)
 
 The powerful ingredient in this collaboration is undoubtedly, community-centeredness. Over time, we hope to see the Triple C Programme grow to involve more schools and SSAs.
