@@ -49,7 +49,7 @@ Given that traffic congestion in RGS is due to the occasional inattention of tra
 
 Watch their Advocacy Video below:
 
-[https://www.youtube.com/watch?v=N8zkyHXjqXc](https://www.youtube.com/watch?v=N8zkyHXjqXc)
+* [https://www.youtube.com/watch?v=N8zkyHXjqXc](https://www.youtube.com/watch?v=N8zkyHXjqXc)
 
 **Project Coral.Ful (Environment-related)**
 
@@ -63,7 +63,7 @@ Given that there is a lack of awareness of the state of coral reefs in Singapore
 
 Watch their Advocacy Video below:
  
-[https://www.youtube.com/watch?v=zg8hPzYS51A](https://www.youtube.com/watch?v=zg8hPzYS51A)
+* [https://www.youtube.com/watch?v=zg8hPzYS51A](https://www.youtube.com/watch?v=zg8hPzYS51A)
  
 **Project GenTECH (People-related)**
 
@@ -77,7 +77,7 @@ Given that seniors aged 60 and above are not harnessing the wide array of techno
 
 Watch their Advocacy Video below:
 
-[https://www.youtube.com/watch?v=UPPZaoNmjZ8](https://www.youtube.com/watch?v=UPPZaoNmjZ8)
+* [https://www.youtube.com/watch?v=UPPZaoNmjZ8](https://www.youtube.com/watch?v=UPPZaoNmjZ8)
 
   
 **Student-Initiated Values-In-Action (SVIA) Projects**
@@ -89,4 +89,4 @@ Project Honey and Bread is an example of a SVIA project that strives to partner 
 
 Watch their project video below:
 
-[https://www.youtube.com/watch?v=Rk-96EDfHnY](https://www.youtube.com/watch?v=Rk-96EDfHnY)
+* [https://www.youtube.com/watch?v=Rk-96EDfHnY](https://www.youtube.com/watch?v=Rk-96EDfHnY)
