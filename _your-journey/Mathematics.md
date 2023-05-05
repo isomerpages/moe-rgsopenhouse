@@ -12,10 +12,18 @@ description: ""
 By the end of the course, you will be able to:  
   
 *   Apply mathematical concepts, principles and logic to solve problems
+
 *   Think independently, creatively and critically in the formulation of original and elegant solutions  
+
+![](/images/learning%20math%20outdoors%20i.jpeg)
     
 *   Use information and communications technology (ICT) to enhance learning
+
+![](/images/use%20of%20ipad%20in%20the%20math%20classroom.jpeg)
 *   Acquire an appreciation of the beauty of mathematics, and the traits and dispositions of mathematician
+
+
+![](/images/learning%20math%20outdoors%20ii.jpeg)
 
 # Events and Activities
 
