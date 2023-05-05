@@ -2,6 +2,6 @@ collections:
   learn-differently:
     output: true
     order:
-      - Sandbox@RGS.md
       - Raffles Programme.md
       - RGS 1:1.md
+      - Sandbox@RGS.md
