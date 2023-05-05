@@ -2,7 +2,7 @@ collections:
   learn-differently:
     output: true
     order:
-      - STEM Education & Digital Literacy.md
       - Raffles Programme.md
+      - STEM Education & Digital Literacy.md
       - RGS 1:1.md
       - Sandbox@RGS.md
