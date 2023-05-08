@@ -35,3 +35,5 @@ At the end of your four years in RGS, you will be able to:
 
 *   Sports Festival
 *   Swimming Carnival
+
+# Events and Activities
