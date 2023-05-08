@@ -50,11 +50,16 @@ By the end of the course, you will be able to:
 
 # Students’ Works
 
-**2019 Year 3 Biology Performance Task**
+* 2019 Year 3 Biology Performance Task
 
-**2019 Year 3 Physics Performance Task**
+![](/images/bio%20performance%20task.jpeg)
 
-**2019 Year 3 Chemistry Performance Task**
+* 2019 Year 3 Physics Performance Task
 
-**Experience in a Science Classroom**
+![](/images/physics%20performance%20task.png)
 
+* 2019 Year 3 Chemistry Performance Task
+
+![](/images/chemistry%20performance%20task.jpeg)
+
+* [Experience in a Science Classroom](https://youtu.be/DfwcCmZp3Uk)
