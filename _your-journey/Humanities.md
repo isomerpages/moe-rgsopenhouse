@@ -40,16 +40,14 @@ Through Inquiry and Advocacy lessons, you will:
 #### HUSH-STEM Week
 
 Humanities Showcase (HUSH) and Science, Technology, Engineering and Mathematics (STEM) Week, a celebration of the collaboration of the Humanities and STEM fields in the school campus. This week-long programme seeks to inspire students to believe in the idea of “STEM for Humanity”.
-```
-https://youtu.be/JUyNJoDhYrc
-```
+* Video [HERE](https://youtu.be/JUyNJoDhYrc)
+
 
 #### Humanities Overseas Field Trip to Hong Kong
 
 An annual overseas trip to Asia or Southeast Asia destinations for multi-disciplinary learning that cuts across Humanities subjects (History, Geography and Inquiry &amp; Advocacy).
 
-```
-https://youtu.be/jCOqvqGULHE
-```
+Video [HERE](https://youtu.be/jCOqvqGULHE)
+
 #### Geography Kukup Field Trip
 ![Kukup in JB](/images/jb_kukup.jpg)
