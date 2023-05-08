@@ -1,15 +1,16 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/rgs-logo_horizontal-2022-update.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Learn Differently
+    collection: learn-differently
+  - title: Better Self
+    collection: better-self
+  - title: Talents and interests
+    collection: talents-and-interests
+  - title: Be the Change
+    collection: be-the-change
+  - title: Your Journey
+    collection: your-journey
+  - title: Main Site
+    url: https://www.rgs.edu.sg/
+  - title: Admissions
+    url: https://www.rgs.edu.sg/admissions/Admission-to-RGS/overview/

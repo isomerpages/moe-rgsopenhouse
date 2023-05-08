@@ -1,0 +1,8 @@
+collections:
+  better-self:
+    output: true
+    order:
+      - Culture of Care.md
+      - Filiae Centre.md
+      - Financial Assistance.md
+      - Events.md
