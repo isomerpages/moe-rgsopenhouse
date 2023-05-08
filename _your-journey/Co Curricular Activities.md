@@ -67,3 +67,15 @@ CCA participation is compulsory for all students in RGS. Through CCAs, you will:
 * Infocomm Club
 * Raffles Mind Sports
 * Robotics Club
+
+# Events and Activities
+
+#### Physical Sports
+
+#### Visual & Performing Arts
+
+Watch the video [HERE](https://youtu.be/F6bxk9GKSbw) for snippets of our Performing Arts groups in action during the Singapore Youth Festival Arts Presentation 2021!
+
+#### Uniformed Groups
+
+#### Clubs & Societies
