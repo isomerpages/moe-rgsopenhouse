@@ -14,10 +14,10 @@ sections:
           url: https://www.youtube.com/watch?v=9vQXUqD6gPk
         - title: Commemorative Homebook
           description: Our different 'Homes'
-          url: https://gmail.com
+          url: https://drive.google.com/file/d/1SokuGuheBDfUyewmCGtb5yx2rrD_G2Bu/view?usp=sharing
         - title: Information Booklet
           description: The Raffles Programme
-          url: ""
+          url: https://drive.google.com/file/d/1Lbkp-W-x6eCtkERJSepgJhKY8heu7oa4/view?usp=sharing
   - infopic:
       title: Learn Differently
       button: Because You Must
