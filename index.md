@@ -23,7 +23,7 @@ sections:
       button: Because You Must
       alt: Image alt text
       image: /images/classroom.jpg
-      url: www.rgs.edu.sg
+      url: https://openhouse.rgs.edu.sg/learn-differently/rafflesprogramme/
   - infopic:
       title: "Be your Better Self "
       button: Because You are Safe
