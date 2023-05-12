@@ -27,7 +27,7 @@ sections:
   - infopic:
       title: "Be your Better Self "
       button: Because You are Safe
-      url: www.rgs.edu.sg
+      url: https://openhouse.rgs.edu.sg/better-self/cultureofcare/
       alt: Image alt text
       image: /images/psb group.jpg
   - infopic:
