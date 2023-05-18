@@ -68,14 +68,12 @@ CCA participation is compulsory for all students in RGS. Through CCAs, you will:
 * Raffles Mind Sports
 * Robotics Club
 
-# Events and Activities
+# Feature
 
-#### Physical Sports
+* [RGS Tennis Feature during NSG 2023](https://www.activesgcircle.gov.sg/national-school-games-2023/watch/national-school-games-2023-tennis-profile)
+* [School sports: Raffles Girls’ School are tennis champions again](https://www.straitstimes.com/sport/schools/school-sports-raffles-girls-school-are-tennis-champions-again)
+* [NSG 100m: Clara Lim of RGS tops B Div field in 12.49s as top 8 all go sub-13s](https://www.redsports.sg/2023/04/30/nsg-100m-clara-lim-rgs/)
+* [Squash: Raffles Girls' School come from behind to win first C Div title since 2015](https://www.straitstimes.com/sport/schools/squash-raffles-girls-school-come-from-behind-to-win-first-c-div-title-since-2015)
+* [School sports: Methodist Girls' reclaim C Division girls' tennis title with 4-1 win over Raffles Girls'](https://www.straitstimes.com/sport/school-sports-methodist-girls-reclaim-c-division-girls-tennis-title-with-4-1-win-over-raffles-girls)
+* [School sports: Raffles Girls' win first B Division squash title since 2017](https://www.straitstimes.com/sport/schools/school-sports-raffles-girls-win-first-b-division-squash-title-since-2017)
 
-#### Visual & Performing Arts
-
-Watch the video [HERE](https://youtu.be/F6bxk9GKSbw) for snippets of our Performing Arts groups in action during the Singapore Youth Festival Arts Presentation 2021!
-
-#### Uniformed Groups
-
-#### Clubs & Societies
