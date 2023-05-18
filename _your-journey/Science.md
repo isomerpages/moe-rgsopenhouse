@@ -46,8 +46,6 @@ By the end of the course, you will be able to:
 *   Understand the skills, ethics and attitudes relevant to the Practices of Science.
 *   Understand that a small number of basic principles and core ideas can be applied to explain, analyse and solve problems in a variety of systems in the physical world.
 
-# Events and Activities
-
 # Students’ Works
 
 * 2019 Year 3 Biology Performance Task
