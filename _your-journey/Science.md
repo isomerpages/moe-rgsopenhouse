@@ -3,9 +3,9 @@ title: Science
 permalink: /your-journey/science/
 description: ""
 ---
-![](/images/science1.png)
+![](/images/sciencev1.png)
 
-![](/images/science2.png)
+![](/images/sciencev2.png)
 
 # Curriculum Goals
 **Year 1 and Year 2 Science**
