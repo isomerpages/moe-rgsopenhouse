@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/physicaleducation1.png)
 
-![](/images/physicaleducation2.png)
+![](/images/physicaleducationv2.png)
 # Curriculum Goals
 At the end of your four years in RGS, you will be able to:
 
