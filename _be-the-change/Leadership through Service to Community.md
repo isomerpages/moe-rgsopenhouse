@@ -26,6 +26,8 @@ Some of the key activities led by student leaders are:
 *   In-Conversation
     
 *   SVIA Committee
+
+![](/images/house%20cleanupyear1.jpeg)
     
 An annual Community Fair (conducted during Post-End of Year Assessment) brings the community together to celebrate each other's service-learning efforts via sharing sessions, and enables teams to hand-over projects to their school-mates to enable sustainability of service to the community.
 
