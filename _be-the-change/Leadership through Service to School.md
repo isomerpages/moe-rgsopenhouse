@@ -7,22 +7,25 @@ description: Open house Microsite - Student Leadership in RGS
 
 **Prefectorial Board**
 
-![](/images/prefectorial%20board.jpg)
+![](/images/prefectorial%20boardv2.jpg)
     
 The Prefects act as role models for their peers and are the custodians of the school culture. They uphold the school values of the school and ignite school spirit.**
 
 **Peer Support Board**
-![](/images/peer%20support%20board.jpg)
+
+![](/images/peer%20support%20boardv2.jpg)
 
 The Peer Support Leaders provide guidance and support to their peers, and advocate for a culture of care amongst the students.
 
 **Student Congress**
-![](/images/student%20congress.jpg)
+
+![](/images/student%20congressv2.jpg)
     
 Student Congress leaders promote active citizenship by garnering feedback and suggestions from students for the purpose of collective improvement of RGS.**
   
 **House**
-![](/images/house%20captains%20heart.jpg)
+
+![](/images/house%20jumping.jpg)
 
 The House System which comprises five Houses, Tarbet (Red), Buckle (Green), Richardson (Blue), Waddle (Yellow) and Hadley (Purple), nurtures the students’ sense of belonging and loyalty to the school by fostering sisterhood, team and school spirit through its activities.**
 
@@ -43,3 +46,5 @@ Class Exco members play an integral role in developing and promoting class ident
 *   Class Centre 
     
 *   Tea With Congress
+
+![](/images/tea%20with%20congress.JPG)
