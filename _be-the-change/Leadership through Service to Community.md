@@ -21,10 +21,6 @@ Some of the key activities led by student leaders are:
     
 *   Student-Initiated VIA Project (SVIA Project)
     
-*   Raffles Policy Dialogue
-    
-*   In-Conversation
-    
 *   SVIA Committee
 
 ![](/images/house%20cleanupyear1.jpeg)
