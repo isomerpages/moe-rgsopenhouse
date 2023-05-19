@@ -37,3 +37,9 @@ At the end of your four years in RGS, you will be able to:
 *   Swimming Carnival
 
 # Events and Activities
+
+![](/images/sports%20fest%2022.png)
+
+![](/images/netball%20carnival%2022.png)
+
+![](/images/moe%20obs%20challenge%20(moc).png)
