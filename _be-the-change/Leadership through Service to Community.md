@@ -35,7 +35,9 @@ Read more about VIA [HERE](http://tinyurl.com/VIASITERGS) (Student created site)
 
 **Community Youth Leaders (Direct School Admissions)**
 
-A talent development programme which nurtures students, who are passionate in serving the community, to lead as active agents of change. In turn, they also inspire others to make a positive difference in their spheres of influence.**
+A talent development programme which nurtures students, who are passionate in serving the community, to lead as active agents of change. In turn, they also inspire others to make a positive difference in their spheres of influence.
+
+* [Community Youth Leadership Video](https://drive.google.com/file/d/16TLQ6cfv2CqB5DYXSEl3enKwB3DRPkw9/view?usp=sharing)
 
 **Community Problem Solving Programme (CmPS)**
 
