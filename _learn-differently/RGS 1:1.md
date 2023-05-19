@@ -20,3 +20,5 @@ In a 1:1 classroom environment, instruction would be student-centred, collaborat
 ![](/images/digital%20literacy_2%20(1).png)
 
 ![](/images/digital%20literacy_1%20(1).png)
+
+### For more information, please refer to the Main RGS Website  [HERE](https://www.rgs.edu.sg/programmes/RGS-1-1/rgs/)
