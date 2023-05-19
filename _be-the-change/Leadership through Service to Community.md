@@ -9,11 +9,13 @@ description: Open house Microsite - Student Leadership in RGS
 
 As a school that seeks to develop the aspiration and capacity for service to nation and community in every student, the RGS Values-in-Action (VIA) programme provides enriched and differentiated experiences within a vibrant environment of stewardship and service. The programme seeks to build in each student, the capacity to advocate by deepening their understanding of and responsibility in addressing community issues. We aim to enable each student entering RGS, with different strengths and aptitude towards service, the opportunity to discover her passions and develop according to her level of readiness.
 
-![](/images/congress%202022%20deepavali%20donation%20drive.jpeg)
+![](/images/inter%20coastal%20cleanup.png)
 
 Some of the key activities led by student leaders are:
 
 *   Y1 Service-Learning Learning Journey
+
+![](/images/class%20clean%20up.png)
     
 *   Y2 Class VIA project
     
@@ -24,6 +26,8 @@ Some of the key activities led by student leaders are:
 *   SVIA Committee
 
 ![](/images/house%20cleanupyear1.jpeg)
+
+![](/images/year%201%20via.png)
     
 An annual Community Fair (conducted during Post-End of Year Assessment) brings the community together to celebrate each other's service-learning efforts via sharing sessions, and enables teams to hand-over projects to their school-mates to enable sustainability of service to the community.
 
@@ -31,7 +35,9 @@ Read more about VIA [HERE](http://tinyurl.com/VIASITERGS) (Student created site)
 
 **Community Youth Leaders (Direct School Admissions)**
 
-A talent development programme which nurtures students, who are passionate in serving the community, to lead as active agents of change. In turn, they also inspire others to make a positive difference in their spheres of influence.**
+A talent development programme which nurtures students, who are passionate in serving the community, to lead as active agents of change. In turn, they also inspire others to make a positive difference in their spheres of influence.
+
+* [Community Youth Leadership Video](https://drive.google.com/file/d/16TLQ6cfv2CqB5DYXSEl3enKwB3DRPkw9/view?usp=sharing)
 
 **Community Problem Solving Programme (CmPS)**
 

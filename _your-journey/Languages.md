@@ -48,5 +48,5 @@ Pelajar-pelajar yang fasih berdwibahasa yang dapat:
 • அவர்களின் கலாச்சாரத்துடன் தொடர்புபடுத்திக்கொள்ள முடியும்.
 
 # Events and Activities
-
-# Students’ Works
+MT Fortnight 2023
+![](/images/mt%20fortnight%202023.jpeg)

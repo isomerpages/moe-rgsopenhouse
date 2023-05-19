@@ -29,7 +29,7 @@ By the end of the course, you will be able to:
 *   Contribute creative literary works reflecting literary knowledge and their insights of life.
 
 # Event and Activities
-
+![](/images/english%20week%202023.png)
 # Students’ Works
 
 *   [2019 Personal Essay Samples](https://www-rgs-edu-sg-admin.cwp.sg/qql/slot/u1398/Your%20Journey/English%20Language%20&%20Literature/2019%20Personal%20Essay%20Samples_OpenHouse.pdf)
