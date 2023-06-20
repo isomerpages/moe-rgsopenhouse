@@ -4,7 +4,7 @@ title: RGS Open House
 description: Curious to know what the RGS experience is?
 image: /images/for-circle-logo.jpg
 permalink: /
-notification: Visit us at our Braddell Campus! 2 Braddell Rise, Singapore 318871
+notification: ""
 sections:
   - hero:
       background: /images/house captains.jpg
@@ -28,14 +28,14 @@ sections:
       image: /images/classroom.jpg
       url: https://openhouse.rgs.edu.sg/learn-differently/rafflesprogramme/
   - infopic:
-      title: "Be your Better Self "
+      title: Be your Better Self
       button: Because You are Safe
       url: https://openhouse.rgs.edu.sg/better-self/cultureofcare/
       alt: Image alt text
       image: /images/psb group.jpg
   - infopic:
       title: Grow Your Talents & Interests
-      button: "Because Opportunities are Aplenty "
+      button: Because Opportunities are Aplenty
       url: https://openhouse.rgs.edu.sg/talents-and-interests/rgstd/
       alt: Image alt text
       image: /images/group performing.jpg
@@ -46,7 +46,7 @@ sections:
       alt: Image alt text
       image: /images/be the change.jpg
   - infopic:
-      title: "Chart Your Journey "
+      title: Chart Your Journey
       button: Academic & Student Development Programmes
       url: https://openhouse.rgs.edu.sg/your-journey/aesthetics/
       alt: Image alt text
