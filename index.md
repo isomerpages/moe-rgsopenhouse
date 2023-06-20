@@ -57,4 +57,12 @@ sections:
       url: https://www.youtube.com/watch?v=ApFL6TIb4Cw
       alt: Image alt text
       image: /images/house love.jpg
+  - infopic:
+      title: "Filiae Melioris Aevi "
+      subtitle: RGS Corporate video
+      description: Daughters of a Better Age
+      button: Watch Video
+      url: https://youtu.be/bsFZe7s95Wg
+      image: /images/corp vid.png
+      alt: Image alt text
 ---
