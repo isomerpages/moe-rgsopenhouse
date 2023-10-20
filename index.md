@@ -18,9 +18,6 @@ sections:
         - title: Commemorative Homebook
           description: Our different 'Homes'
           url: https://drive.google.com/file/d/1SokuGuheBDfUyewmCGtb5yx2rrD_G2Bu/view?usp=sharing
-        - title: Information Booklet
-          description: The Raffles Programme
-          url: https://drive.google.com/file/d/1Lbkp-W-x6eCtkERJSepgJhKY8heu7oa4/view?usp=sharing
   - infopic:
       title: Learn Differently
       button: Because You Must
@@ -58,7 +55,7 @@ sections:
       alt: Image alt text
       image: /images/house love.jpg
   - infopic:
-      title: "Filiae Melioris Aevi "
+      title: Filiae Melioris Aevi
       subtitle: RGS Corporate video
       description: Daughters of a Better Age
       button: Watch Video
