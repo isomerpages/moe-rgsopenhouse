@@ -1,0 +1,14 @@
+collections:
+  your-journey:
+    output: true
+    order:
+      - Aesthetics.md
+      - Humanities.md
+      - Mathematics.md
+      - Physical Education.md
+      - Science.md
+      - Languages.md
+      - English Language & Literature.md
+      - Character & Leadership Education.md
+      - Citizenship Education.md
+      - Co Curricular Activities.md
