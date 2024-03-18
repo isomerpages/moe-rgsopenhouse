@@ -13,11 +13,21 @@ sections:
           description: The RGS Experience
           url: https://www.youtube.com/watch?v=9vQXUqD6gPk
         - title: E- Brochure
-          description: 2023 Open House
-          url: https://drive.google.com/file/d/1D71jUR9oJpxMvDM-Sag24thoFP0SWvVY/view?usp=sharing
+          description: (Available May 2024)
+          url: ""
         - title: Commemorative Homebook
           description: Our different 'Homes'
           url: https://drive.google.com/file/d/1SokuGuheBDfUyewmCGtb5yx2rrD_G2Bu/view?usp=sharing
+  - infopic:
+      title: 18 May 2024, Saturday
+      subtitle: RGS Open House
+      id: infopic
+      description: |-
+        8.30am - 1.30pm
+        2 Braddell Rise, 
+        Singapore 318871
+      image: /images/rgsbanner24__1_.png
+      alt: RGS Open House 2024
   - infopic:
       title: Learn Differently
       button: Because You Must
