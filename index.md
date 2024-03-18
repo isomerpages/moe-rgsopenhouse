@@ -23,7 +23,7 @@ sections:
       subtitle: RGS Open House
       id: infopic
       description: |-
-        8.30am - 1.30pm
+        8.30am - 1.30pm,
         2 Braddell Rise, 
         Singapore 318871
       image: /images/rgsbanner24__1_.png
