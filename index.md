@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/house captains.jpg
       key_highlights:
-        - title: Principal's Welcome
+        - title: Corporate Video
           description: The RGS Experience
-          url: https://www.youtube.com/watch?v=9vQXUqD6gPk
+          url: https://www.youtube.com/watch?v=bsFZe7s95Wg
         - title: E- Brochure
           description: (Available May 2024)
           url: ""
