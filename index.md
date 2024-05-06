@@ -13,8 +13,8 @@ sections:
           description: The RGS Experience
           url: https://www.youtube.com/watch?v=bsFZe7s95Wg
         - title: E- Brochure
-          description: (Available May 2024)
-          url: ""
+          description: Open House Programme
+          url: https://drive.google.com/file/d/1T0ofQMXqnn3jvciBFoy1er87kdvJyoi8/view?usp=sharing
         - title: Commemorative Homebook
           description: Our different 'Homes'
           url: https://drive.google.com/file/d/1SokuGuheBDfUyewmCGtb5yx2rrD_G2Bu/view?usp=sharing
