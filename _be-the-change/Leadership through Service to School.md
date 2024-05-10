@@ -40,9 +40,9 @@ Class Exco members play an integral role in developing and promoting class ident
 
 ### Some of the key activities led by student leaders are:
 
-*  [Year 1 Orientation](https://www.rgs.edu.sg/highlights/events/y123/)
+*  [Year 1 Orientation](https://www.rgs.edu.sg/highlights/events-and-announcements/2024y1ow/)
     
-*   [Rafflesians Unite Week](https://www.rgs.edu.sg/highlights/events-and-announcements/ru2023/)
+*   [Rafflesians Unite Week](https://www.rgs.edu.sg/rafflesians-unite-week-2024/)
     
 *   Class Centre 
     
