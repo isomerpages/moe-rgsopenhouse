@@ -2,6 +2,7 @@
 title: Leadership through Service to Community
 permalink: /be-the-change/via/
 description: Open house Microsite - Student Leadership in RGS
+variant: markdown
 ---
 # Leadership through Service to Community
 
@@ -57,6 +58,8 @@ Given that traffic congestion in RGS is due to the occasional inattention of tra
 
 Watch their Advocacy Video below:
 
+
+
 * [https://www.youtube.com/watch?v=N8zkyHXjqXc](https://www.youtube.com/watch?v=N8zkyHXjqXc)
 
 **Project Coral.Ful (Environment-related)**
@@ -90,7 +93,7 @@ Watch their Advocacy Video below:
   
 **Student-Initiated Values-In-Action (SVIA) Projects**
 
-he school encourages students to self-initiate projects that enable them to serve in a cause(s) they are passionate to address. SVIA projects are passed on between batches of students to sustain support to partner agencies.
+The school encourages students to self-initiate projects that enable them to serve in a cause(s) they are passionate to address. SVIA projects are passed on between batches of students to sustain support to partner agencies.
 
 Some examples of SVIA projects include: advocating for animal welfare and environment conservation, reading and academic support programmes, student advocacy for individuals with special needs, developing children’s interest in STEM, and many more…
 
