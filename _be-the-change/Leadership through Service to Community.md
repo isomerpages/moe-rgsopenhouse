@@ -32,8 +32,6 @@ Some of the key activities led by student leaders are:
     
 An annual Community Fair (conducted during Post-End of Year Assessment) brings the community together to celebrate each other's service-learning efforts via sharing sessions, and enables teams to hand-over projects to their school-mates to enable sustainability of service to the community.
 
-Read more about VIA [HERE](http://tinyurl.com/VIASITERGS) (Student created site)
-
 **Community Youth Leaders (Direct School Admissions)**
 
 A talent development programme which nurtures students, who are passionate in serving the community, to lead as active agents of change. In turn, they also inspire others to make a positive difference in their spheres of influence.
@@ -58,7 +56,7 @@ Given that traffic congestion in RGS is due to the occasional inattention of tra
 
 Watch their Advocacy Video below:
 
-
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/N8zkyHXjqXc?si=GPqC8Bz5hr04mv2v" height="315" width="560"></iframe>
 
 * [https://www.youtube.com/watch?v=N8zkyHXjqXc](https://www.youtube.com/watch?v=N8zkyHXjqXc)
 
@@ -73,6 +71,8 @@ Underlying Problem
 Given that there is a lack of awareness of the state of coral reefs in Singapore, how should we educate youths on the importance of preservation of corals so that they can taken actions to ensure the protection of our corals in the year 2021 and beyond?
 
 Watch their Advocacy Video below:
+
+ <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/zg8hPzYS51A?si=BJod3t_6w_K9N7Hc" height="315" width="560"></iframe>
  
 * [https://www.youtube.com/watch?v=zg8hPzYS51A](https://www.youtube.com/watch?v=zg8hPzYS51A)
  
@@ -88,6 +88,8 @@ Given that seniors aged 60 and above are not harnessing the wide array of techno
 
 Watch their Advocacy Video below:
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/UPPZaoNmjZ8?si=CHFVvt99HT--JhC3" height="315" width="560"></iframe>
+
 * [https://www.youtube.com/watch?v=UPPZaoNmjZ8](https://www.youtube.com/watch?v=UPPZaoNmjZ8)
 
   
@@ -100,5 +102,7 @@ Some examples of SVIA projects include: advocating for animal welfare and enviro
 Project Honey and Bread is an example of a SVIA project that strives to partner other stakeholders to address an issue of concern. The team collaborated with their RI counterparts to support Care Corner Toa Payoh seniors during the 2021 year-end holidays.
 
 Watch their project video below:
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Rk-96EDfHnY?si=0CHW1UTsLwZrWgjv" height="315" width="560"></iframe>
 
 * [https://www.youtube.com/watch?v=Rk-96EDfHnY](https://www.youtube.com/watch?v=Rk-96EDfHnY)
