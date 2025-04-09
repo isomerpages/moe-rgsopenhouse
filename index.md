@@ -23,10 +23,10 @@ sections:
       id: infopic
       description: Click the link below or scan the QR Code to view critical details
         for DSA applications.
-      image: /images/https___go_gov_sg_dsatalentinfo2024.png
+      image: /images/rgsoh2025.png
       alt: DSA Talent Info
-      button: Click Here
-      url: https://www.rgs.edu.sg/files/2024_Webpage_RGS_DSA_TalentInfo__080424_.pdf
+      button: (Coming Soon)
+      url: https://www.rgs.edu.sg/admissions/Admission-to-RGS/overview/
   - infopic:
       title: Learn Differently
       button: Because You Must
