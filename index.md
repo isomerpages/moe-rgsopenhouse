@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/house captains.jpg
+      background: /images/weoh2025.jpg
       key_highlights:
         - title: Corporate Video
           description: The RGS Experience
