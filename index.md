@@ -7,26 +7,26 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/house captains.jpg
+      background: /images/weoh2025.jpg
       key_highlights:
         - title: Corporate Video
           description: The RGS Experience
           url: https://www.youtube.com/watch?v=bsFZe7s95Wg
         - title: E- Brochure
-          description: Open House Programme
-          url: https://drive.google.com/file/d/1T0ofQMXqnn3jvciBFoy1er87kdvJyoi8/view?usp=sharing
+          description: (Coming Soon)
+          url: ""
         - title: Commemorative Homebook
           description: Our different 'Homes'
           url: https://drive.google.com/file/d/1SokuGuheBDfUyewmCGtb5yx2rrD_G2Bu/view?usp=sharing
   - infopic:
       title: DSA Applications
       id: infopic
-      description: "Click the link below or scan the QR Code to view critical details
-        for DSA applications. "
-      image: /images/https___go_gov_sg_dsatalentinfo2024.png
+      description: Click the link below or scan the QR Code to view critical details
+        for DSA applications.
+      image: /images/rgsoh2025.png
       alt: DSA Talent Info
-      button: "Click Here "
-      url: https://www.rgs.edu.sg/files/2024_Webpage_RGS_DSA_TalentInfo__080424_.pdf
+      button: (Coming Soon)
+      url: https://www.rgs.edu.sg/admissions/Admission-to-RGS/overview/
   - infopic:
       title: Learn Differently
       button: Because You Must
