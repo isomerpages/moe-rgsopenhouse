@@ -19,14 +19,11 @@ sections:
           description: Our different 'Homes'
           url: https://drive.google.com/file/d/1SokuGuheBDfUyewmCGtb5yx2rrD_G2Bu/view?usp=sharing
   - infopic:
-      title: DSA Applications
+      title: Visit our Open House
       id: infopic
-      description: Click the link below or scan the QR Code to view critical details
-        for DSA applications.
+      description: Come and discover the RGS Experience at our Open House!
       image: /images/rgsoh2025.png
       alt: DSA Talent Info
-      button: (Coming Soon)
-      url: https://www.rgs.edu.sg/admissions/Admission-to-RGS/overview/
   - infopic:
       title: Learn Differently
       button: Because You Must
