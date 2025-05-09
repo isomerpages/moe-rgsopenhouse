@@ -21,9 +21,11 @@ sections:
   - infopic:
       title: Visit our Open House
       id: infopic
-      description: Come and discover the RGS Experience at our Open House!
+      description: Come and discover the RGS Experience
       image: /images/rgsoh2025.png
-      alt: DSA Talent Info
+      alt: OH Programme
+      button: Click here to view Programme
+      url: https://drive.google.com/file/d/19a_PmqoKRzd2nv0XEaew5VufWroLGa5q/view?usp=sharing
   - infopic:
       title: Learn Differently
       button: Because You Must
