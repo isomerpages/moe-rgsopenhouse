@@ -24,8 +24,8 @@ sections:
       description: Come and discover the RGS Experience
       image: /images/rgsoh2025.png
       alt: OH Programme
-      button: Click here to view Programme
-      url: https://drive.google.com/file/d/19a_PmqoKRzd2nv0XEaew5VufWroLGa5q/view?usp=sharing
+      button: View the e-brochure
+      url: https://drive.google.com/file/d/1wWBLp746WPFqjD08VlDVP5kAsxsv6kTi/view?usp=drive_link
   - infopic:
       title: Learn Differently
       button: Because You Must
