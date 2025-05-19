@@ -44,21 +44,19 @@ The Community Problem Solving (CmPS) Programme is a differentiated programme for
 
 Some examples of CmPS projects include: inspiring children to pursue STEM careers, educating and working with students to build proper posture, equipping seniors to become competent technology users and advocating the importance of coral reefs on our ecosystem.
 
-**Project S-Move (Environment-related)**
 
-Area of Concern
+**Project Biobliss (Environment-related)**
 
-The team sought to improve traffic conditions so as to create a safer environment for their school-mates. The students worked with the school's safety committee to implement changes to the school's traffic SOPs.
+ Area of Concern
  
-Underlying Problem
+ The team sought to increase the knowledge and appreciation of biodiversity among youths aged 13-16 through activities that teach them more about biodiversity around them.&nbsp;
 
-Given that traffic congestion in RGS is due to the occasional inattention of traffic rules by drivers, how might we increase drivers' mindfulness so that we can improve the school's traffic conditions at the arrival plaza in the year 2021 and beyond?
+ Underlying Problem
 
-Watch their Advocacy Video below:
+Given that studies have shown that young people play a crucial role in conserving biodiversity but there is insufficient opportunities for&nbsp; students in Singapore aged 13-16&nbsp; to appreciate and be aware of the importance of biodiversity, how might we increase awareness of biodiversity among the youths in Singapore so that they will be better able to commit to efforts to support biodiversity around them in the year 2024 and beyond?
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/N8zkyHXjqXc?si=GPqC8Bz5hr04mv2v" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/0zyGVK6FRMI?si=Mw7nBf4XPaMVjovB" height="315" width="560"></iframe>
 
-* [https://www.youtube.com/watch?v=N8zkyHXjqXc](https://www.youtube.com/watch?v=N8zkyHXjqXc)
 
 **Project Coral.Ful (Environment-related)**
 
