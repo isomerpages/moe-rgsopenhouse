@@ -2,6 +2,7 @@
 title: Physical Education
 permalink: /your-journey/pe/
 description: ""
+variant: markdown
 ---
 ![](/images/physicaleducation1.png)
 
@@ -20,7 +21,7 @@ At the end of your four years in RGS, you will be able to:
 
 **_Main Curriculum_**
 
-*   Sports/Games – Badminton, Floorball, Football, Fundamental Gymnastics, Netball, Softball, Sport Climbing, Tennis, Touch Rugby, Ultimate Frisbee, Volleyball
+*   Sports/Games –  Volleyball, Floorball, Football, Fundamental Gymnastics, Netball, Softball, Sport Climbing, Tennis, Touch Rugby, Ultimate Frisbee, Volleyball
 *   Outdoor Education
 *   Physical Health
 
