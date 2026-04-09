@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/3_2_Students_with_Purpose_EK1_7766.jpg
+      background: /images/3_2_Students_with_Purpose_EK1_7766_edit.jpg
       key_highlights:
         - title: Corporate Video
           description: The RGS Experience
@@ -55,7 +55,7 @@ sections:
       button: Academic & Student Development Programmes
       url: https://openhouse.rgs.edu.sg/your-journey/aesthetics/
       alt: Image alt text
-      image: /images/3_4_Co_creating_Experiences_EK1_8313.jpg
+      image: /images/3_4_Co_creating_Experiences_EK1_8313_edit.jpg
   - infopic:
       title: Join Us
       button: A day in the life of an rgs girl
