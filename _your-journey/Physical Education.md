@@ -4,7 +4,7 @@ permalink: /your-journey/pe/
 description: ""
 variant: markdown
 ---
-![](/images/PE.png)
+![](/images/PE_edit.png)
 # Curriculum Goals
 At the end of your four years in RGS, you will be able to:
 
