@@ -2,10 +2,9 @@
 title: Co Curricular Activities
 permalink: /your-journey/cca/
 description: ""
+variant: markdown
 ---
-![](/images/co%20curricular%20activities1.png)
-
-![](/images/co%20curricular%20activities2.png)
+![](/images/CCA.png)
 
 # Co-Curricular Activity Goals
 CCA participation is compulsory for all students in RGS. Through CCAs, you will:  
@@ -76,4 +75,3 @@ CCA participation is compulsory for all students in RGS. Through CCAs, you will:
 * [Squash: Raffles Girls' School come from behind to win first C Div title since 2015](https://www.straitstimes.com/sport/schools/squash-raffles-girls-school-come-from-behind-to-win-first-c-div-title-since-2015)
 * [School sports: Methodist Girls' reclaim C Division girls' tennis title with 4-1 win over Raffles Girls'](https://www.straitstimes.com/sport/school-sports-methodist-girls-reclaim-c-division-girls-tennis-title-with-4-1-win-over-raffles-girls)
 * [School sports: Raffles Girls' win first B Division squash title since 2017](https://www.straitstimes.com/sport/schools/school-sports-raffles-girls-win-first-b-division-squash-title-since-2017)
-
