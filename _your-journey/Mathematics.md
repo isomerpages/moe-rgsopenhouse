@@ -4,11 +4,9 @@ permalink: /your-journey/mathematics/
 description: ""
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mathematics1.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mathematics2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math.png">
 </div>
 <h1>Curriculum Goals</h1>
 <p>By the end of the course, you will be able to:</p>
@@ -54,6 +52,6 @@ in the real world.&nbsp;Activities include the Introduction to Coding.</p>
 <p><strong>HUSH-STEM Week - Math in Play</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/21j5mH6NhfM?si=EHsZyEOg5EozRK5x"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/21j5mH6NhfM?si=EHsZyEOg5EozRK5x"></iframe>
 </div>
 <p></p>
