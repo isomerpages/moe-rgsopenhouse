@@ -2,10 +2,9 @@
 title: English Language & Literature
 permalink: /your-journey/el/
 description: ""
+variant: markdown
 ---
-![](/images/english1.png)
-
-![](/images/english2.png)
+![](/images/English_and_Literature.png)
 
 # Curriculum Goals
 ### English Language
