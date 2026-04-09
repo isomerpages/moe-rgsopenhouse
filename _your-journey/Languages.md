@@ -2,10 +2,9 @@
 title: Languages
 permalink: /your-journey/languages/
 description: ""
+variant: markdown
 ---
-![](/images/languagesv1.png)
-
-![](/images/languages2.png)
+![](/images/Languages.png)
 
 # Curriculum Goals
 
