@@ -2,10 +2,9 @@
 title: Humanities
 permalink: /your-journey/humanities/
 description: ""
+variant: markdown
 ---
-![](/images/humanities1.png)
-
-![](/images/humanities2.png)
+![](/images/Humanities.png)
 
 # Curriculum Goals
 **Geography**
