@@ -4,9 +4,7 @@ permalink: /your-journey/pe/
 description: ""
 variant: markdown
 ---
-![](/images/physicaleducation1.png)
-
-![](/images/physicaleducationv2.png)
+![](/images/PE.png)
 # Curriculum Goals
 At the end of your four years in RGS, you will be able to:
 
