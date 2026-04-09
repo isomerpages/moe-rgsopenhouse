@@ -2,10 +2,9 @@
 title: Character & Leadership Education
 permalink: /your-journey/cle/
 description: ""
+variant: markdown
 ---
-![](/images/character%20&%20leadership%20educationv1.png)
-
-![](/images/character%20&%20leadership%20educationv2.png)
+![](/images/Character_edit.png)
 
 Character & Leadership Education (CLE) is an integral part of the RGS mission to nurture the high ability girl to be a leader who will realise her talents in service of nation and community.
 
