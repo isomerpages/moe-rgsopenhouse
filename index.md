@@ -22,7 +22,7 @@ sections:
       title: Visit our Open House
       id: infopic
       description: Come and discover the RGS Experience
-      image: /images/rgsoh2025.png
+      image: /images/RGS_OH_2026_ebanner.png
       alt: OH Programme
       button: View the e-brochure
       url: https://drive.google.com/file/d/1wWBLp746WPFqjD08VlDVP5kAsxsv6kTi/view?usp=drive_link
