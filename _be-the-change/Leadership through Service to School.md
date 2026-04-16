@@ -8,25 +8,25 @@ variant: markdown
 
 **Prefectorial Board**
 
-![](/images/prefectorial%20boardv2.jpg)
+![](/images/1_4_Co_created_Spaces_EK1_5514.jpg)
     
 The Prefects act as role models for their peers and are the custodians of the school culture. They uphold the school values of the school and ignite school spirit.
 
 **Peer Support Board**
 
-![](/images/peer%20support%20boardv2.jpg)
+![](/images/3_4_Co_creating_Experiences_EK1_8318.jpg)
 
 The Peer Support Leaders provide guidance and support to their peers, and advocate for a culture of care amongst the students.
 
 **Student Congress**
 
-![](/images/student%20congressv2.jpg)
+![](/images/1_1_Learning_in_Motion_EK1_4906.jpg)
     
 Student Congress leaders promote active citizenship by garnering feedback and suggestions from students for the purpose of collective improvement of RGS.
   
 **House**
 
-![](/images/house%20jumping.jpg)
+![](/images/3_2_Students_with_Purpose_EK1_7817_edit.jpg)
 
 The House System which comprises five Houses, Tarbet (Red), Buckle (Green), Richardson (Blue), Waddle (Yellow) and Hadley (Purple), nurtures the students’ sense of belonging and loyalty to the school by fostering sisterhood, team and school spirit through its activities.**
 
@@ -40,9 +40,9 @@ Class Exco members play an integral role in developing and promoting class ident
 
 ### Some of the key activities led by student leaders are:
 
-*  [Year 1 Orientation](https://www.rgs.edu.sg/highlights/events-and-announcements/2024y1ow/)
+*  [Year 1 Orientation](https://www.rgs.edu.sg/2026-year-1-orientation-week/)
     
-*   [Rafflesians Unite Week](https://www.rgs.edu.sg/rafflesians-unite-week-2024/)
+*   [Rafflesians Unite Week](https://www.rgs.edu.sg/ru-week-2026/)
     
 *   Class Centre 
     

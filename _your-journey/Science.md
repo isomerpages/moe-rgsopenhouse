@@ -2,11 +2,9 @@
 title: Science
 permalink: /your-journey/science/
 description: ""
+variant: markdown
 ---
-![](/images/sciencev1.png)
-
-![](/images/sciencev2.png)
-
+![](/images/Science_edit.png)
 # Curriculum Goals
 **Year 1 and Year 2 Science**
 

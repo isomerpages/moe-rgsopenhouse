@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/weoh2025.jpg
+      background: /images/3_2_Students_with_Purpose_EK1_7766_edit.jpg
       key_highlights:
         - title: Corporate Video
           description: The RGS Experience
@@ -22,7 +22,7 @@ sections:
       title: Visit our Open House
       id: infopic
       description: Come and discover the RGS Experience
-      image: /images/rgsoh2025.png
+      image: /images/RGS_OH_2026_ebanner.png
       alt: OH Programme
       button: View the e-brochure
       url: https://drive.google.com/file/d/1wWBLp746WPFqjD08VlDVP5kAsxsv6kTi/view?usp=drive_link
@@ -30,14 +30,14 @@ sections:
       title: Learn Differently
       button: Because You Must
       alt: Image alt text
-      image: /images/classroom.jpg
+      image: /images/1_1_Learning_in_Motion_EK1_4618.jpg
       url: https://openhouse.rgs.edu.sg/learn-differently/rafflesprogramme/
   - infopic:
       title: Be your Better Self
       button: Because You are Safe
       url: https://openhouse.rgs.edu.sg/better-self/cultureofcare/
       alt: Image alt text
-      image: /images/psb group.jpg
+      image: /images/1_4_Co_created_Spaces_EK1_5590.jpg
   - infopic:
       title: Grow Your Talents & Interests
       button: Because Opportunities are Aplenty
@@ -55,13 +55,13 @@ sections:
       button: Academic & Student Development Programmes
       url: https://openhouse.rgs.edu.sg/your-journey/aesthetics/
       alt: Image alt text
-      image: /images/pb group.jpg
+      image: /images/3_4_Co_creating_Experiences_EK1_8313_edit.jpg
   - infopic:
       title: Join Us
       button: A day in the life of an rgs girl
       url: https://www.youtube.com/watch?v=ApFL6TIb4Cw
       alt: Image alt text
-      image: /images/house love.jpg
+      image: /images/3_2_Students_with_Purpose_EK1_7795.jpg
   - infopic:
       title: Filiae Melioris Aevi
       subtitle: RGS Corporate video

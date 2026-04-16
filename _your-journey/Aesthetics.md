@@ -2,10 +2,9 @@
 title: Aesthetics
 permalink: /your-journey/aesthetics/
 description: ""
+variant: markdown
 ---
-![Aesthetics in RGS](/images/aesthetics1.png)
-
-![Aesthetics in RGS](/images/aesthetics2.png)
+![](/images/Aesthetics.png)
 
 # Curriculum Goals
 
