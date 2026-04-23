@@ -13,8 +13,8 @@ sections:
           description: The RGS Experience
           url: https://www.youtube.com/watch?v=bsFZe7s95Wg
         - title: E- Brochure
-          description: The Open House experience!
-          url: https://drive.google.com/file/d/1wWBLp746WPFqjD08VlDVP5kAsxsv6kTi/view?usp=drive_link
+          description: Available from 1 May 2026
+          url: ""
         - title: Commemorative Homebook
           description: Our different 'Homes'
           url: https://drive.google.com/file/d/1SokuGuheBDfUyewmCGtb5yx2rrD_G2Bu/view?usp=sharing
@@ -24,8 +24,6 @@ sections:
       description: Come and discover the RGS Experience
       image: /images/RGS_OH_2026_ebanner.png
       alt: OH Programme
-      button: View the e-brochure
-      url: https://drive.google.com/file/d/1wWBLp746WPFqjD08VlDVP5kAsxsv6kTi/view?usp=drive_link
   - infopic:
       title: Learn Differently
       button: Because You Must
