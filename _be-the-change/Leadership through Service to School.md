@@ -20,7 +20,7 @@ The Peer Support Leaders provide guidance and support to their peers, and advoca
 
 **Student Congress**
 
-![](/images/1_1_Learning_in_Motion_EK1_4906.jpg)
+![](/images/DSC06617_edited.jpg)
 
 Student Congress leaders promote active citizenship by garnering feedback and suggestions from students for the purpose of collective improvement of RGS.
   
