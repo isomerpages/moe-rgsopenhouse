@@ -7,7 +7,7 @@ variant: markdown
 # Filiae Centre
 The Hong Leong Foundation Filiae Centre, is a one-stop student development centre (a first for Singapore secondary schools). The Centre supports and inspires students to engage in enjoyable and enriching school experiences, nurturing their growing understanding of self and community, and on how they can contribute to a global society. Services and programmes at the Filiae Centre will enable you to develop a sense of balanced wellness in these dimensions of wellness: physical, social, emotional, intellectual, spiritual, vocational, contextual and developmental.
 
-Video: https://www.youtube.com/watch?v=jq_WZk8Fi7Q
+Watch the video [here](https://www.youtube.com/watch?v=jq_WZk8Fi7Q) for more information. 
 
 # Counselling
 
