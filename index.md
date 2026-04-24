@@ -19,12 +19,6 @@ sections:
           description: Our different 'Homes'
           url: https://drive.google.com/file/d/1SokuGuheBDfUyewmCGtb5yx2rrD_G2Bu/view?usp=sharing
   - infopic:
-      title: Visit our Open House
-      id: infopic
-      description: Come and discover the RGS Experience
-      image: /images/RGS_OH_2026_ebanner.png
-      alt: OH Programme
-  - infopic:
       title: Learn Differently
       button: Because You Must
       alt: Image alt text
