@@ -19,6 +19,13 @@ sections:
           description: Our different 'Homes'
           url: https://drive.google.com/file/d/1SokuGuheBDfUyewmCGtb5yx2rrD_G2Bu/view?usp=sharing
   - infopic:
+      title: 2026 Open House
+      subtitle: 23 May 2026
+      id: infopic
+      description: "The RGS Experience: Know it, Feel it, Live it!"
+      image: /images/RGS_OH_2026_banner.png
+      alt: Image alt text
+  - infopic:
       title: Learn Differently
       button: Because You Must
       alt: Image alt text
