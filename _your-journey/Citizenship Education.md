@@ -36,5 +36,6 @@ Organised annually by a dedicated committee of Year Three students, Raffles In-
 
 [Raffles Policy Dialogue](https://www.rgs.edu.sg/raffles-policy-dialogue-2026/)
 
-![](https://www.rgs.edu.sg/images/y3%20rpd.jpg)
-![](/images/RPD_Website_Feature_2024.png)
+
+![](/images/26.png)
+![](/images/27.png)
