@@ -10,7 +10,7 @@ Guided by the RGS NE Framework, Citizenship Education in RGS develops in Raffles
 
 Our students’ social consciousness and active citizenry are fostered through Learning Journeys Week, a programme that seeks to engage the students experientially in understanding the Singapore story and the role they can play in our nation’s progress.
 
-   ![](https://www.rgs.edu.sg/images/y1lj2023.jpg)
+ ![](/images/44.png)
 
 **Embrace Diversity**
 
@@ -18,11 +18,11 @@ We empower our students by providing opportunities to co-initiate and organise N
 
 * [Racial Harmony Day](https://www.rgs.edu.sg/racial-harmony-day-2025/)
 
-![](https://www.rgs.edu.sg/images/rhd23(1).jpg)
+![](/images/43.png)
 
-[National Day Celebrations](https://www.rgs.edu.sg/national-day-celebrations-2025/)
+* [National Day Celebrations](https://www.rgs.edu.sg/national-day-celebrations-2025/)
 
-![](https://www.rgs.edu.sg/images/ndp2023(2).jpg)
+![](/images/42.png)
 
 **Think With Purpose**
 
