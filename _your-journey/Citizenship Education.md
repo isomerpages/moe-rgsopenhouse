@@ -10,19 +10,19 @@ Guided by the RGS NE Framework, Citizenship Education in RGS develops in Raffles
 
 Our students’ social consciousness and active citizenry are fostered through Learning Journeys Week, a programme that seeks to engage the students experientially in understanding the Singapore story and the role they can play in our nation’s progress.
 
-   ![](https://www.rgs.edu.sg/images/y1lj2023.jpg)
+ ![](/images/44.png)
 
 **Embrace Diversity**
 
 We empower our students by providing opportunities to co-initiate and organise NE-related events such as Racial Harmony Day and participate in NE-related seminars/ competitions.
 
-* [Racial Harmony Day](https://www.rgs.edu.sg/highlights/events-and-announcements/rhd23/)
+* [Racial Harmony Day](https://www.rgs.edu.sg/racial-harmony-day-2025/)
 
-![](https://www.rgs.edu.sg/images/rhd23(1).jpg)
+![](/images/43.png)
 
-[National Day Celebrations](https://www.rgs.edu.sg/highlights/events-and-announcements/ndc2023/)
+* [National Day Celebrations](https://www.rgs.edu.sg/national-day-celebrations-2025/)
 
-![](https://www.rgs.edu.sg/images/ndp2023(2).jpg)
+![](/images/42.png)
 
 **Think With Purpose**
 
@@ -34,7 +34,8 @@ Student-initiated platforms allow our students to lead their peers to engage in 
 
 Organised annually by a dedicated committee of Year Three students, Raffles In-Conversation (In-Convo) focuses on delving into deep-seated societal issues in Singapore. Its aim is to provide a diverse platform that empowers participants to broaden their understanding of both Singapore and the wider world, while also encouraging the formation of unique opinions on key social issues.
 
-[Raffles Policy Dialogue](https://www.rgs.edu.sg/highlights/events-and-announcements/rpd2023/)
+[Raffles Policy Dialogue](https://www.rgs.edu.sg/raffles-policy-dialogue-2026/)
 
-![](https://www.rgs.edu.sg/images/y3%20rpd.jpg)
-![](/images/RPD_Website_Feature_2024.png)
+
+![](/images/26.png)
+![](/images/27.png)

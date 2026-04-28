@@ -19,8 +19,9 @@ variant: tiptap
 and elegant solutions</p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/learning%20math%20outdoors%20i.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/121_IMG_2994.jpg">
 </div>
 <ul data-tight="true" class="tight">
 <li>
@@ -28,7 +29,7 @@ and elegant solutions</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/use%20of%20ipad%20in%20the%20math%20classroom.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/116_IMG_2989.jpg">
 </div>
 <ul data-tight="true" class="tight">
 <li>
@@ -36,16 +37,10 @@ and elegant solutions</p>
 dispositions of mathematician</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/learning%20math%20outdoors%20ii.jpeg">
-</div>
 <h1>Events and Activities</h1>
 <h3>HUSH-STEM Week</h3>
 <p>A week to highlight the interplay of Mathematics with Science and Humanities
 in the real world.&nbsp;Activities include the Introduction to Coding.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hushstem1.JPG">
-</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/hushstem2.JPG">
 </div>

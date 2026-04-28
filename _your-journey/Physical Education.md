@@ -37,8 +37,11 @@ At the end of your four years in RGS, you will be able to:
 
 # Events and Activities
 
-![](/images/sports%20fest%2022.png)
+**_RGS Sports Fest 2025_**
+![](/images/37.png)
 
-![](/images/netball%20carnival%2022.png)
+**_Netball Carnival 2025_**
+![](/images/38.png)
 
-![](/images/moe%20obs%20challenge%20(moc).png)
+**_Y3 MOE-OBS Challenge 2025_**
+![](/images/39.png)
