@@ -23,7 +23,6 @@ CCA participation is compulsory for all students in RGS. Through CCAs, you will:
 
 * Badminton
 * Basketball
-* Fencing
 * Netball
 * Rhythmic Gymnastics  
 * Sailing
