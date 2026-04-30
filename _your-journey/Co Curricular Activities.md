@@ -68,6 +68,9 @@ CCA participation is compulsory for all students in RGS. Through CCAs, you will:
 
 # Feature
 
+* [ACS(I) beat Raffles Institution in last race to win overall A Div girls’ swimming title for the first time](https://www.straitstimes.com/sport/schools/acsi-leapfrog-raffles-institution-in-last-race-to-win-overall-a-div-girls-swimming-title-for-the)
+* [Moonwalk to gold: Michael Jackson powers Avery Tan to NSG rhythmic gymnastics title](https://www.straitstimes.com/sport/schools/moonwalk-to-gold-michael-jackson-powers-avery-tan-to-nsg-rhythmic-gymnastics-title)
+* [Bloodied knee no issue for HCI pair, who help reclaim B Division table tennis title](https://www.straitstimes.com/sport/schools/bloodied-knee-no-issue-for-hci-pair-who-help-reclaim-b-division-table-tennis-title?ref=latest)
 * [RGS Tennis Feature during NSG 2023](https://www.activesgcircle.gov.sg/national-school-games-2023/watch/national-school-games-2023-tennis-profile)
 * [School sports: Raffles Girls’ School are tennis champions again](https://www.straitstimes.com/sport/schools/school-sports-raffles-girls-school-are-tennis-champions-again)
 * [NSG 100m: Clara Lim of RGS tops B Div field in 12.49s as top 8 all go sub-13s](https://www.redsports.sg/2023/04/30/nsg-100m-clara-lim-rgs/)
