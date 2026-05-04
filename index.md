@@ -14,7 +14,7 @@ sections:
           url: https://www.youtube.com/watch?v=bsFZe7s95Wg
         - title: E- Brochure
           description: Click here to view
-          url: https://canva.link/svhno8ao54edi4i
+          url: ""
         - title: Commemorative Homebook
           description: Our different 'Homes'
           url: https://drive.google.com/file/d/1SokuGuheBDfUyewmCGtb5yx2rrD_G2Bu/view?usp=sharing
