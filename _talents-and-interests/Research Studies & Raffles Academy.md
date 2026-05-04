@@ -2,6 +2,7 @@
 title: Research Studies & Raffles Academy
 permalink: /talents-and-interests/rsra/
 description: ""
+variant: markdown
 ---
 # Research Studies &amp; Raffles Academy
 
@@ -16,4 +17,4 @@ In preparation for RS, students learn research and inquiry skills which have bee
 
 The next table lists the programmes that fall under the umbrella of Research Studies and Raffles Academy.
 
-![](/images/researchstudies1.png)
+![](/images/WhatsApp_Image_2026_05_04_at_2_06_56_PM.jpg) 
