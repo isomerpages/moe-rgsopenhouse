@@ -1,6 +1,6 @@
 ---
-title: RGS 1:1
-permalink: /learn-differently/rgs1to1/
+title: RGS PDLP
+permalink: /learn-differently/rgspdlp/
 description: ""
 variant: markdown
 ---
@@ -13,7 +13,7 @@ variant: markdown
 * Participate in and build inclusive digital communities within and beyond the school
 
 # Digital Literacies
-In a 1:1 classroom environment, instruction would be student-centred, collaborative and technology enabled. In this environment, technology would enable students to accomplish tasks that would require them to Find, Think, Apply and Create.
+In a PDLP classroom environment, instruction would be student-centred, collaborative and technology enabled. In this environment, technology would enable students to accomplish tasks that would require them to Find, Think, Apply and Create.
 
 # Digital Literacy Framework:
 ![](/images/digital%20literacy%20framework%20(1).png)
