@@ -20,4 +20,4 @@ In a PDLP classroom environment, instruction would be student-centred, collabora
 
 ![](/images/WhatsApp_Image_2026_02_11_at_3_25_21_PM.jpg)
 
-### For more information, please refer to the Main RGS Website  [HERE](https://www.rgs.edu.sg/programmes/RGS-1-1/rgs/)
+### For more information, please refer to the Main RGS Website  [HERE](https://www.rgs.edu.sg/programmes/rgs-pdlp/rgs/)
